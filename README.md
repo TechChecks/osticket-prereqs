@@ -44,8 +44,7 @@ In the next step with be to create a remote desktop conection where we will inst
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<a href='https://postimg.cc/RNXNdVg0' target='_blank'><img src='https://i.postimg.cc/RNXNdVg0/os-ticket-installer-2024-07-12-at-10-11-06-PM.png' height="80%" width="80%" border='0' alt='os-ticket-installer-2024-07-12-at-10-11-06-PM'/></a></p>
 <p>
 In this step, I will be downloading the OS Ticket software and following the upload instructions. All necessary software needed to run Osticket has been installed and configured.
 </p>
