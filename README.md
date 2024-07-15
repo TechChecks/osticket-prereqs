@@ -37,8 +37,7 @@ Main steps is to create a resource group where you can store, manage and organiz
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<a href='https://postimg.cc/30YFgcWD' target='_blank'><img src='https://i.postimg.cc/30YFgcWD/Files-installed-2024-07-12-at-9-11-58-PM.png' height="80%" width="80%" border='0' alt='Files-installed-2024-07-12-at-9-11-58-PM'/></a></p>
 <p>
 In the next step with be to create a remote desktop conection where we will install the necessary software inside of the VM. If you are using a Mac, you will have to download Mircrosoft remote desktop. In this section we will be dowloading IIS (Internet information services), PHP manager for IIS, Rewrite module, PHP-7.3.8, VC_redist.x86.exe, and MySQL 5.5.62 . All of the download instructions are provided separately, because it is too much to list. These installs will be necessary to instal the actaul OsTicket platform in the next step.
 </p>
