@@ -53,8 +53,12 @@ In this step, I will be downloading the OS Ticket software and following the upl
 <p>
 <a href='https://postimg.cc/8JYvmz5r' target='_blank'><img src='https://i.postimg.cc/8JYvmz5r/Screen-Shot-2024-07-12-at-11-01-45-PM.png' height="80%" width="80%" border='0' alt='Screen-Shot-2024-07-12-at-11-01-45-PM'/></a></p>
 <p>
-OsTicket has successfully been installed. In the following steps, I will be assigning priveliges to different users and creating tickets that will need to be resolved. 
+OsTicket has successfully been installed. In the following steps, I will be assigning privelidges to different agents and users for tickets that will need to be resolved. 
 </p>
 <br />
 
 <p>
+
+<p>
+Here we are configuring roles for Admins and agents. An Admin role would be able to create tickets, delete tickets etc.. Obiviously for higher ranked employees such as admins, there would be more permissions granted    Here you can see all the Admin permission granted to this agent.
+
