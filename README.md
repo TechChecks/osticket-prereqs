@@ -53,3 +53,8 @@ In this step, I will be downloading the OS Ticket software and following the upl
 <p>
 <a href='https://postimg.cc/8JYvmz5r' target='_blank'><img src='https://i.postimg.cc/8JYvmz5r/Screen-Shot-2024-07-12-at-11-01-45-PM.png' height="80%" width="80%" border='0' alt='Screen-Shot-2024-07-12-at-11-01-45-PM'/></a></p>
 <p>
+OsTicket has successfully been installed. In the following steps, I will be assigning priveliges to different users and creating tickets that will need to be resolved. 
+</p>
+<br />
+
+<p>
