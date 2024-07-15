@@ -58,7 +58,13 @@ OsTicket has successfully been installed. In the following steps, I will be assi
 <br />
 
 <p>
+<a href='https://postimg.cc/rKWf1r8S' target='_blank'><img src='https://i.postimg.cc/rKWf1r8S/Untitled-design-5.png' height="80%" width="80%" border='0' alt='Untitled-design-5'/></a>
+<p>
+Here we are configuring roles for Admins/agents and users. Admin roles would be able to create, delete, edit and close tickets etc.. Obiviously for higher ranked personel such as admins, there would be more permissions granted than agents without. Here you can see the set up for Admins, agents and users.
+</p>
+<br />
 
 <p>
-Here we are configuring roles for Admins and agents. An Admin role would be able to create tickets, delete tickets etc.. Obiviously for higher ranked employees such as admins, there would be more permissions granted    Here you can see all the Admin permission granted to this agent.
+
+<p>
 
