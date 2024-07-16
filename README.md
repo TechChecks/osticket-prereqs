@@ -49,7 +49,7 @@ In the next step, create a remote desktop conection where we will install the ne
 <p>
 <a href='https://postimg.cc/RNXNdVg0' target='_blank'><img src='https://i.postimg.cc/RNXNdVg0/os-ticket-installer-2024-07-12-at-10-11-06-PM.png' height="80%" width="80%" border='0' alt='os-ticket-installer-2024-07-12-at-10-11-06-PM'/></a></p>
 <p>
-In this step, I will be downloading the OS Ticket software following the installation instructions. All necessary software needed to run Osticket has been preinstalled and configured as needed to run the OsTicket platform.
+In this step, I will be downloading the OsTicket software following the installation instructions. All necessary software needed to run OsTicket has been preinstalled and configured as needed to run the OsTicket platform.
 </p>
 <br />
 
