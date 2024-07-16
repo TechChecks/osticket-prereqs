@@ -74,5 +74,5 @@ A very important part of the ticketing process is the SLA (Service Level Agreeme
 <p>
 <a href='https://postimg.cc/WhKzLLns' target='_blank'><img src='https://i.postimg.cc/WhKzLLns/End-User.png' height="80%" width="80%" border='0' alt='End-User'/></a>
 <p> 
-Here us an example of the OsTicketing system where the end user has submitted a help desk ticket from the end users URL. We would then receive the ticket at the help desk and proceed to resolve the issue at hand within the scope or our abilities.
+Here us an example of the OsTicketing system where the end user has submitted a help desk ticket from the end users URL. We would then receive the ticket at the help desk and proceed to resolve the issue at hand within the scope or our abilities. This concludes the .
 
