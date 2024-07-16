@@ -65,6 +65,14 @@ Here we are configuring roles for Admins/agents and users. Admin roles would be 
 <br />
 
 <p>
+<a href='https://postimg.cc/Dmp5s3t3' target='_blank'><img src='https://i.postimg.cc/Dmp5s3t3/SLAand-Helpdesktopics.png' height="80%" width="80%" border='0' alt='SLAand-Helpdesktopics'/></a>
+<p>
+A very important part of the ticketing process is the SLA (Service Level Agreement). SLA's can be for anything. For instance, part of your SLA can set a minimum resolution time for tickets. We will also create different severity levels. In this section, I also added different help topics that the end users may need help with from support. 
+</p>
+<br />
 
 <p>
+<a href='https://postimg.cc/WhKzLLns' target='_blank'><img src='https://i.postimg.cc/WhKzLLns/End-User.png' height="80%" width="80%" border='0' alt='End-User'/></a>
+<p> 
+Here us an example of the OsTicketing system where the end user has submitted a help desk ticket from the end users URL. We would then receive the ticket at the help desk and proceed to resolve the issue at hand within the scope or our abilities.
 
