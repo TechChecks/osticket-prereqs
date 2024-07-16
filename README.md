@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+These steps outlines the prerequisites and installation of the help desk ticketing system osTicket.<br />
 
 
 
@@ -23,6 +23,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable IIS (Internet Information Services)
 - Install Web Platform Installer
 - Install MySQL 5.5.62
+- Rewrite Module
+- PHP 7.3.8
+- Heidi SQL
 - Configure permissions and Install OS Ticket
 
 <h2>Installation Steps</h2>
@@ -31,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <a href='https://postimg.cc/XBfv8F7r' target='_blank'><img src='https://i.postimg.cc/XBfv8F7r/Screen-Shot-2024-07-06-at-1-11-38-PM.png' height="80%" width="80%" border='0' alt='Screen-Shot-2024-07-06-at-1-11-38-PM'/></a>  
 </p>
 <p>
-Main steps is to create a resource group where you can store, manage and organize resources like virtual machines, databases, and storage accounts in a unified manner. Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs. Make sure to select a plan that is suffient but also beware of monthly cost. When creating the VM, it is important to allow the Azure cloud platform to create a new Virtual Network (Vnet) before moving forward to creating the second VM so you can use the same (VNet) with both machines . 
+The first step is to create a resource group where you can store, manage and organize resources like virtual machines, databases, and storage accounts in a unified manner. Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs. Make sure to select a plan that is suffient but also beware of monthly cost. When creating the VM, it is important to allow the Azure cloud platform to create a new Virtual Network (Vnet) before moving forward to creating the second VM so you can use the same (VNet) with both machines . 
 
 </p>
 <br />
@@ -39,28 +42,28 @@ Main steps is to create a resource group where you can store, manage and organiz
 <p>
 <a href='https://postimg.cc/30YFgcWD' target='_blank'><img src='https://i.postimg.cc/30YFgcWD/Files-installed-2024-07-12-at-9-11-58-PM.png' height="80%" width="80%" border='0' alt='Files-installed-2024-07-12-at-9-11-58-PM'/></a></p>
 <p>
-In the next step with be to create a remote desktop conection where we will install the necessary software inside of the VM. If you are using a Mac, you will have to download Mircrosoft remote desktop. In this section we will be dowloading IIS (Internet information services), PHP manager for IIS, Rewrite module, PHP-7.3.8, VC_redist.x86.exe, and MySQL 5.5.62 . All of the download instructions are provided separately, because it is too much to list. These installs will be necessary to install the actaul OsTicket platform in the next step.
+In the next step, create a remote desktop conection where we will install the necessary software inside of the VM. If you are using a Mac, you will have to download Mircrosoft remote desktop. In this section we will be dowloading IIS (Internet information services), PHP manager for IIS, Rewrite module, PHP-7.3.8, VC_redist.x86.exe, and MySQL 5.5.62 . All of the download instructions are provided separately because it is too much to list. These initial installs will be necessary to install the actaul OsTicket platform implemented in the next steps.
 </p>
 <br />
 
 <p>
 <a href='https://postimg.cc/RNXNdVg0' target='_blank'><img src='https://i.postimg.cc/RNXNdVg0/os-ticket-installer-2024-07-12-at-10-11-06-PM.png' height="80%" width="80%" border='0' alt='os-ticket-installer-2024-07-12-at-10-11-06-PM'/></a></p>
 <p>
-In this step, I will be downloading the OS Ticket software and following the upload instructions. All necessary software needed to run Osticket has been installed and configured.
+In this step, I will be downloading the OS Ticket software following the installation instructions. All necessary software needed to run Osticket has been preinstalled and configured as needed to run the OsTicket platform.
 </p>
 <br />
 
 <p>
 <a href='https://postimg.cc/8JYvmz5r' target='_blank'><img src='https://i.postimg.cc/8JYvmz5r/Screen-Shot-2024-07-12-at-11-01-45-PM.png' height="80%" width="80%" border='0' alt='Screen-Shot-2024-07-12-at-11-01-45-PM'/></a></p>
 <p>
-OsTicket has successfully been installed. In the following steps, I will be assigning privelidges to different agents and users for tickets that will need to be resolved. 
+OsTicket has successfully been installed. In the following steps, I will demonstrate assigning privelidges to different agents and users for tickets that will need to be resolved. 
 </p>
 <br />
 
 <p>
 <a href='https://postimg.cc/rKWf1r8S' target='_blank'><img src='https://i.postimg.cc/rKWf1r8S/Untitled-design-5.png' height="80%" width="80%" border='0' alt='Untitled-design-5'/></a>
 <p>
-Here we are configuring roles for Admins/agents and users. Admin roles would be able to create, delete, edit and close tickets etc.. Obiviously for higher ranked personel such as admins, there would be more permissions granted than agents without. Here you can see the set up for Admins, agents and users.
+Here we are configuring roles for Admins/agents and users. Admin roles would be able to create, delete, edit and close tickets etc.. Obiviously for higher ranked personel such as admins, there would be more permissions granted than for agents without. Here you can see the set up for Admins, agents and users.
 </p>
 <br />
 
@@ -74,5 +77,5 @@ A very important part of the ticketing process is the SLA (Service Level Agreeme
 <p>
 <a href='https://postimg.cc/WhKzLLns' target='_blank'><img src='https://i.postimg.cc/WhKzLLns/End-User.png' height="80%" width="80%" border='0' alt='End-User'/></a>
 <p> 
-Here us an example of the OsTicketing system where the end user has submitted a help desk ticket from the end users URL. We would then receive the ticket at the help desk and proceed to resolve the issue at hand within the scope or our abilities. This concludes the .
+Here is an example of the OsTicketing system where the end user has submitted a help desk ticket from the end users URL. The help desk would then receive the ticket and proceed to resolve the issue at hand within the scope of their abilities. This concludes the my example of a fully functioning ticketing system that can be implemented with any organization.
 
